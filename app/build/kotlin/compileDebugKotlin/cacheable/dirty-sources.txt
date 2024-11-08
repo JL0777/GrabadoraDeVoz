@@ -1,0 +1,8 @@
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\src\main\java\com\jose\navigationcomponentexample\viewmodel\RecordViewModel.kt
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\build\generated\source\navigation-args\debug\com\jose\navigationcomponentexample\SecondFragmentArgs.kt
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\src\main\java\com\jose\navigationcomponentexample\SecondFragment.kt
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\build\generated\source\navigation-args\debug\com\jose\navigationcomponentexample\FirstFragmentDirections.kt
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\src\main\java\com\jose\navigationcomponentexample\FirstFragment.kt
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\src\main\java\com\jose\navigationcomponentexample\MainActivity.kt
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\src\main\java\com\jose\navigationcomponentexample\ThirdFragment.kt
+C:\Users\josel\AndroidStudioProjects\GrabadoraMvvm\app\build\generated\source\navigation-args\debug\com\jose\navigationcomponentexample\SecondFragmentDirections.kt

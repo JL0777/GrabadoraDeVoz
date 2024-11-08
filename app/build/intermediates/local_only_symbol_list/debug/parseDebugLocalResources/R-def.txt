@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color green
+color red
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_firstFragment_to_secondFragment
+id action_secondFragment_to_thirdFragment2
+id btnNavigate
+id btnRecord
+id btnStop
+id firstFragment
+id main
+id main_graph
+id navHostFragment
+id secondFragment
+id thirdFragment
+layout activity_main
+layout fragment_first
+layout fragment_second
+layout fragment_third
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation main_graph
+string app_name
+string hello_blank_fragment
+style Base.Theme.NavigationComponentExample
+style Theme.NavigationComponentExample
+xml backup_rules
+xml data_extraction_rules

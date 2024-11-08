@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jose.navigationcomponentexample.app-mergeDebugResources-48:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\josel\\.gradle\\caches\\transforms-4\\00e334bc623e2371e6e06710ec7f87b4\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
